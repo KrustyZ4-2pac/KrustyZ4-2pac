@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @KrustyZ4-2pac
+- 👀 I’m interested in Coding and encryption software 
+- 🌱 I’m currently Not advertising myself into this subject for having No fixed to-bow.
+- 💞️ I’m looking to collaborate on ...
+- 
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+KrustyZ4-2pac/KrustyZ4-2pac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
